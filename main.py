@@ -206,7 +206,7 @@ def patch_windows(binary):
 
 if __name__ == "__main__":
     print(banner)
-    print("[-] sublime patch for 4154 linux and windows x64, python port")
+    print("[-] sublime patch for 4152 linux and windows x64, python port")
     print("[+++] DISCLAIMER, Linux x64 patches have been untested in this script [+++]")
     if os.name == 'nt':
         print("[+] auto select using gui for platform windows")
